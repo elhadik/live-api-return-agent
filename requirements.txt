@@ -1,0 +1,8 @@
+flask
+flask-sock
+google-genai
+python-dotenv
+uvicorn
+websockets
+google-adk
+google-cloud-aiplatform
